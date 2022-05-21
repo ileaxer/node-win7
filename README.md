@@ -16,7 +16,7 @@ Bildiğimiz üzere v11 ve v12 apileri kalkıyor bu durumdan ötürü v13 geçmek
 6 - Bilgisayarı kapatıp açtıktan sonra cmd açıyoruz(Yönetici ile çalıştırın) yapacağınız şey `set NODE_SKIP_PLATFORM_CHECK 1` bunu yazdıktan sonra zip dosyasından çıkartıyoruz bu sıra test etmek amaçlı yapacağınız şey klasörün içine cmd çalıştırıp `node --version` yazmak versionu veriyorsa sorunsuz çalışıyordur bunların hepsini CTRL + A yaparak kopyalıyoruz ve (Burda kısacası demek istediğim nodejs'in kurulu olduğu dosyanın içine atmak) `Program Dosyaları (86x)`'in içindeki nodejs klasörüne yapıştırıyoruz her şeyi onaylayın ve diğer bir işlem ise `Program Files`'a gelip aynı işlemleri yaptıktan sonra işlem tamamlanacaktır bunu resimlerle anlatmak isterdim fakat çok uzun olur ama anlatabilirsem anlatırım.
 
 # Destek
-Elimden geldiğince anlatmaya çalıştım yapamazsanız, lèãxér#0707 benden yardım isteyebilirsiniz.
+Elimden geldiğince anlatmaya çalıştım yapamazsanız, lèãxér#0505 benden yardım isteyebilirsiniz.
 
 # Fotoğraflı Anlatım
 ![1](https://user-images.githubusercontent.com/90086777/160903784-f4c9c1db-459c-44ea-85f6-dceed2f0f201.png)
