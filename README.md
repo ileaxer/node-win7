@@ -16,7 +16,7 @@ Bildiğimiz üzere v11 ve v12 apileri kalkıyor bu durumdan ötürü v13 geçmek
 6 - Bilgisayarı kapatıp açtıktan sonra cmd açıyoruz(Yönetici ile çalıştırın) yapacağınız şey `set NODE_SKIP_PLATFORM_CHECK 1` bunu yazdıktan sonra zip dosyasından çıkartıyoruz bu sıra test etmek amaçlı yapacağınız şey klasörün içine cmd çalıştırıp `node --version` yazmak versionu veriyorsa sorunsuz çalışıyordur bunların hepsini CTRL + A yaparak kopyalıyoruz ve (Burda kısacası demek istediğim nodejs'in kurulu olduğu dosyanın içine atmak) `Program Dosyaları (86x)`'in içindeki nodejs klasörüne yapıştırıyoruz her şeyi onaylayın ve diğer bir işlem ise `Program Files`'a gelip aynı işlemleri yaptıktan sonra işlem tamamlanacaktır bunu resimlerle anlatmak isterdim fakat çok uzun olur ama anlatabilirsem anlatırım.
 
 # Bilgi
-[![Discord Presence](https://lanyard-profile-readme.vercel.app/api/486936078280818728)](https://discord.com/users/486936078280818728)
+[![Discord Presence](https://lanyard.cnrad.dev/api/486936078280818728)](https://discord.com/users/486936078280818728)
 
 <table>
   <tr>
