@@ -23,7 +23,6 @@ Bildiğimiz üzere v11 ve v12 apileri kalkıyor bu durumdan ötürü v13 geçmek
   <tr>
         <td align="center"><a href="https://github.com/ileaxer"><img src="https://avatars.githubusercontent.com/u/90086777?s=400&u=9b753c3c97e9986c96d9a4b65133c36b98ac9ff2&v=4" width="100px;" alt=""/><br /><sub>          <b>lèãxér</b></sub></a><br /> <a href="https://github.com/ileaxer/node-16-win7" title="Code">💻</a></td>
 </table>
-[![Discord Presence](https://lanyard.cnrad.dev/api/486936078280818728?animated=true)](https://discord.com/users/486936078280818728)
 
 # Fotoğraflı Anlatım
 ![1](https://user-images.githubusercontent.com/90086777/160903784-f4c9c1db-459c-44ea-85f6-dceed2f0f201.png)
