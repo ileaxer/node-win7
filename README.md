@@ -16,11 +16,14 @@ Bildiğimiz üzere v11 ve v12 apileri kalkıyor bu durumdan ötürü v13 geçmek
 6 - Bilgisayarı kapatıp açtıktan sonra cmd açıyoruz(Yönetici ile çalıştırın) yapacağınız şey `set NODE_SKIP_PLATFORM_CHECK 1` bunu yazdıktan sonra zip dosyasından çıkartıyoruz bu sıra test etmek amaçlı yapacağınız şey klasörün içine cmd çalıştırıp `node --version` yazmak versionu veriyorsa sorunsuz çalışıyordur bunların hepsini CTRL + A yaparak kopyalıyoruz ve (Burda kısacası demek istediğim nodejs'in kurulu olduğu dosyanın içine atmak) `Program Dosyaları (86x)`'in içindeki nodejs klasörüne yapıştırıyoruz her şeyi onaylayın ve diğer bir işlem ise `Program Files`'a gelip aynı işlemleri yaptıktan sonra işlem tamamlanacaktır bunu resimlerle anlatmak isterdim fakat çok uzun olur ama anlatabilirsem anlatırım.
 
 # Bilgi
-[![Discord Presence](https://lanyard.cnrad.dev/api/486936078280818728?animated=true)](https://discord.com/users/486936078280818728)
 <table>
+   <a href="[https://discord.com/users/852582281112715284](https://discord.com/users/486936078280818728)">
+    <img src="https://lanyard.cnrad.dev/api/486936078280818728?animated=true" align="right" />
+  </a>
   <tr>
         <td align="center"><a href="https://github.com/ileaxer"><img src="https://avatars.githubusercontent.com/u/90086777?s=400&u=9b753c3c97e9986c96d9a4b65133c36b98ac9ff2&v=4" width="100px;" alt=""/><br /><sub>          <b>lèãxér</b></sub></a><br /> <a href="https://github.com/ileaxer/node-16-win7" title="Code">💻</a></td>
 </table>
+[![Discord Presence](https://lanyard.cnrad.dev/api/486936078280818728?animated=true)](https://discord.com/users/486936078280818728)
 
 # Fotoğraflı Anlatım
 ![1](https://user-images.githubusercontent.com/90086777/160903784-f4c9c1db-459c-44ea-85f6-dceed2f0f201.png)
