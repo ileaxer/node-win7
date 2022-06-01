@@ -4,9 +4,7 @@
 
 2 - [Node 16'nın](https://nodejs.org/dist/v16.14.0/node-v16.14.0-win-x86.zip) zip dosyasını indirmek, şimdilik bunla bi işimiz yok fakat masaüstüne atarsanız fena olmaz. 
 
-3 - Gelişmiş sistem özelliklerini açmak .
-
-4 - Burdan ortam değişkenleri adlı yere tıklamak.
+3 ve 4 - Gelişmiş sistem özelliklerini açmak, burdan ortam değişkenleri adlı yere tıklamak.
 
 5 - Orda karşımıza çıkan ".. için kullanıcı değişkenleri" ve "Sistem değişkenleri" bizim kullanıcı değişkenleriyle işimiz yok ondan dolayı sistem değişkenlerine geliyoruz. Geldikten hemen sonra Yeni'ye basıp Değişken Adına **NODE_PATH** yazıp Değişken Değerine** C:/Program Files/nodejs/node_modules** giriyoruz burası değişebilir sizin nereye kaydettiğinizle ilgili ondan sonra tekrar Yeni tuşuna basıyoruz ve Değişken Adına **NODE_SKIP_PLATFORM_CHECK** yazıp Değişken Değerine **1** yazıp tamam diyoruz bunların hepsini yaptıktan sonra Uygula tuşuna basıp bilgisayarı yeniden başlatıyorsunuz.
 
