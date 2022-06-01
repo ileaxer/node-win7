@@ -1,6 +1,6 @@
 # Anlatım
 
-1 - Başta node 13 indirin ve bunu istediğiniz yere kaydedin. 5.ci kısımıda **NODE_PATH** yazdığınız yerin değişken değerine kaydettiğiniz yeri yazın.
+1 - Başta [Node 13](https://nodejs.org/download/release/v13.14.0/node-v13.14.0-x86.msi) indirin ve bunu istediğiniz yere kaydedin. 5.ci kısımıda **NODE_PATH** yazdığınız yerin değişken değerine kaydettiğiniz yeri yazın.
 
 2 - [Node 16'nın](https://nodejs.org/dist/v16.14.0/node-v16.14.0-win-x86.zip) zip dosyasını indirmek, şimdilik bunla bi işimiz yok fakat masaüstüne atarsanız fena olmaz. 
 
